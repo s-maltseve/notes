@@ -1,4 +1,4 @@
-# notes
+# NOTEBOOK
 
 Личный репозиторий для заметок, шпаргалок и полезных команд.
 
@@ -16,12 +16,9 @@
 ```text
 notes/
   README.md
-  git.md
-  linux.md
-  docker.md
-  devops/
-    ci-cd.md
-    nginx.md
+  NOTEBOOK/
+    git.md
+    source.md
 ```
 
 ## Быстрый цикл работы
