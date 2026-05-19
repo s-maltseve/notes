@@ -17,3 +17,9 @@
 1. Открыть источник.
 2. Выписать важные темы в отдельные заметки.
 3. Добавлять конспекты в папку `NOTEBOOK`.
+
+### Learng it branching GIT
+
+- **Тип:** GiT Swaping 
+- **Ссылка:** [Learng it branching GIT](https://learngitbranching.js.org/?locale=ru_RU)
+- **Описание:** визуальная ирархия, веток сейва и т.д..
